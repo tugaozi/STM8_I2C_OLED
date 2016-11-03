@@ -1,0 +1,2 @@
+# STM8_I2C_OLED
+使用STM8S103的硬件I2C驱动OLED显示屏，显示一串字符
